@@ -11,14 +11,16 @@ public class Menu {
 
     public static void exibirMenu() {
         while (true) {
-            System.out.println("Selecione uma opção:");
-            System.out.println("1 - Cadastrar um novo paciente");
-            System.out.println("2 - Listar todos os pacientes");
-            System.out.println("3 - Alterar informações do paciente");
-            System.out.println("4 - Mostrar informações de um paciente");
-            System.out.println("5 - Registrar atividade física para um paciente");
-            System.out.println("6 - Remover paciente");
-            System.out.println("7 - Sair");
+            System.out.println("""
+                    Escolha uma ação:
+                     1 - Cadastrar um novo paciente
+                     2 - Listar todos os pacientes
+                     3 - Alterar informações do paciente
+                     4 - Mostrar informações de um paciente
+                     5 - Registrar atividade física para um paciente
+                     6 - Remover paciente
+                     7 - Sair""");
+
 
             int opcao = scanner.nextInt();
             scanner.nextLine();
@@ -44,7 +46,7 @@ public class Menu {
                     continue;
                 case 7:
                     System.out.println("Saindo...");
-                    break;
+                    return;
                 default:
                     System.out.println("Opção inválida, tente novamente.");
                     continue;
