@@ -17,6 +17,20 @@ public class Exercicio01 {
 
         System.out.printf("Seu IMC é: %.2f", imc);
 
+        if (imc < 18.5) {
+            System.out.println(" - Abaixo do peso");
+        } else if (imc >= 18.5 && imc < 25) {
+            System.out.println(" - Peso normal");
+        } else if (imc >= 25 && imc < 30) {
+            System.out.println(" - Sobrepeso");
+        } else if (imc >= 30 && imc < 35) {
+            System.out.println(" - Obesidade grau 1");
+        } else if (imc >= 35 && imc < 40) {
+            System.out.println(" - Obesidade grau 2");
+        } else {
+            System.out.println(" - Obesidade grau 3");
+        }
+
         scan.close();
 
     }
