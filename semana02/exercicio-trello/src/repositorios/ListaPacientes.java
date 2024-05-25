@@ -1,4 +1,4 @@
-package repositorio;
+package repositorios;
 
 import entidades.Paciente;
 import java.util.ArrayList;
@@ -14,6 +14,15 @@ public class ListaPacientes {
     public static Paciente buscarPorId(int id) {
         if (id >= 0 && id < pacientes.size()) {
             return pacientes.get(id);
+        }
+        return null;
+    }
+
+    public static Paciente buscarPorNome(String nome) {
+        for (Paciente paciente : pacientes) {
+            if (paciente.getNome().equalsIgnoreCase(nome)) {
+                return paciente;
+            }
         }
         return null;
     }
