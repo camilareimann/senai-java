@@ -1,0 +1,908 @@
+[
+  {
+    "numero": 1,
+    "nome": "Bulbasaur",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 2,
+    "nome": "Ivysaur",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 3,
+    "nome": "Venusaur",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 4,
+    "nome": "Charmander",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 5,
+    "nome": "Charmeleon",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 6,
+    "nome": "Charizard",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 7,
+    "nome": "Squirtle",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 8,
+    "nome": "Wartortle",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 9,
+    "nome": "Blastoise",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 10,
+    "nome": "Caterpie",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 11,
+    "nome": "Metapod",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 12,
+    "nome": "Butterfree",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 13,
+    "nome": "Weedle",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 14,
+    "nome": "Kakuna",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 15,
+    "nome": "Beedrill",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 16,
+    "nome": "Pidgey",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 17,
+    "nome": "Pidgeotto",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 18,
+    "nome": "Pidgeot",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 19,
+    "nome": "Rattata",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 20,
+    "nome": "Raticate",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 21,
+    "nome": "Spearow",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 22,
+    "nome": "Fearow",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 23,
+    "nome": "Ekans",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 24,
+    "nome": "Arbok",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 25,
+    "nome": "Pikachu",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 26,
+    "nome": "Raichu",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 27,
+    "nome": "Sandshrew",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 28,
+    "nome": "Sandslash",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 29,
+    "nome": "Nidoran♀",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 30,
+    "nome": "Nidorina",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 31,
+    "nome": "Nidoqueen",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 32,
+    "nome": "Nidoran♂",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 33,
+    "nome": "Nidorino",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 34,
+    "nome": "Nidoking",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 35,
+    "nome": "Clefairy",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 36,
+    "nome": "Clefable",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 37,
+    "nome": "Vulpix",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 38,
+    "nome": "Ninetales",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 39,
+    "nome": "Jigglypuff",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 40,
+    "nome": "Wigglytuff",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 41,
+    "nome": "Zubat",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 42,
+    "nome": "Golbat",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 43,
+    "nome": "Oddish",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 44,
+    "nome": "Gloom",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 45,
+    "nome": "Vileplume",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 46,
+    "nome": "Paras",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 47,
+    "nome": "Parasect",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 48,
+    "nome": "Venonat",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 49,
+    "nome": "Venomoth",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 50,
+    "nome": "Diglett",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 51,
+    "nome": "Dugtrio",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 52,
+    "nome": "Meowth",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 53,
+    "nome": "Persian",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 54,
+    "nome": "Psyduck",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 55,
+    "nome": "Golduck",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 56,
+    "nome": "Mankey",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 57,
+    "nome": "Primeape",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 58,
+    "nome": "Growlithe",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 59,
+    "nome": "Arcanine",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 60,
+    "nome": "Poliwag",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 61,
+    "nome": "Poliwhirl",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 62,
+    "nome": "Poliwrath",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 63,
+    "nome": "Abra",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 64,
+    "nome": "Kadabra",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 65,
+    "nome": "Alakazam",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 66,
+    "nome": "Machop",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 67,
+    "nome": "Machoke",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 68,
+    "nome": "Machamp",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 69,
+    "nome": "Bellsprout",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 70,
+    "nome": "Weepinbell",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 71,
+    "nome": "Victreebel",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 72,
+    "nome": "Tentacool",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 73,
+    "nome": "Tentacruel",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 74,
+    "nome": "Geodude",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 75,
+    "nome": "Graveler",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 76,
+    "nome": "Golem",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 77,
+    "nome": "Ponyta",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 78,
+    "nome": "Rapidash",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 79,
+    "nome": "Slowpoke",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 80,
+    "nome": "Slowbro",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 81,
+    "nome": "Magnemite",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 82,
+    "nome": "Magneton",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 83,
+    "nome": "Farfetch'd",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 84,
+    "nome": "Doduo",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 85,
+    "nome": "Dodrio",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 86,
+    "nome": "Seel",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 87,
+    "nome": "Dewgong",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 88,
+    "nome": "Grimer",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 89,
+    "nome": "Muk",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 90,
+    "nome": "Shellder",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 91,
+    "nome": "Cloyster",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 92,
+    "nome": "Gastly",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
+    "areaHabitat": "Cemetery"
+  },
+  {
+    "numero": 93,
+    "nome": "Haunter",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+    "areaHabitat": "Cemetery"
+  },
+  {
+    "numero": 94,
+    "nome": "Gengar",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+    "areaHabitat": "Cemetery"
+  },
+  {
+    "numero": 95,
+    "nome": "Onix",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 96,
+    "nome": "Drowzee",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 97,
+    "nome": "Hypno",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 98,
+    "nome": "Krabby",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 99,
+    "nome": "Kingler",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 100,
+    "nome": "Voltorb",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 101,
+    "nome": "Electrode",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 102,
+    "nome": "Exeggcute",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 103,
+    "nome": "Exeggutor",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 104,
+    "nome": "Cubone",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 105,
+    "nome": "Marowak",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 106,
+    "nome": "Hitmonlee",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 107,
+    "nome": "Hitmonchan",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 108,
+    "nome": "Lickitung",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 109,
+    "nome": "Koffing",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 110,
+    "nome": "Weezing",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 111,
+    "nome": "Rhyhorn",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 112,
+    "nome": "Rhydon",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 113,
+    "nome": "Chansey",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 114,
+    "nome": "Tangela",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 115,
+    "nome": "Kangaskhan",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 116,
+    "nome": "Horsea",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 117,
+    "nome": "Seadra",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 118,
+    "nome": "Goldeen",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 119,
+    "nome": "Seaking",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 120,
+    "nome": "Staryu",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 121,
+    "nome": "Starmie",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 122,
+    "nome": "Mr. Mime",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 123,
+    "nome": "Scyther",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 124,
+    "nome": "Jynx",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 125,
+    "nome": "Electabuzz",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 126,
+    "nome": "Magmar",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 127,
+    "nome": "Pinsir",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 128,
+    "nome": "Tauros",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 129,
+    "nome": "Magikarp",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 130,
+    "nome": "Gyarados",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 131,
+    "nome": "Lapras",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 132,
+    "nome": "Ditto",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 133,
+    "nome": "Eevee",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 134,
+    "nome": "Vaporeon",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 135,
+    "nome": "Jolteon",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 136,
+    "nome": "Flareon",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 137,
+    "nome": "Porygon",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
+    "areaHabitat": "Urban"
+  },
+  {
+    "numero": 138,
+    "nome": "Omanyte",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 139,
+    "nome": "Omastar",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 140,
+    "nome": "Kabuto",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 141,
+    "nome": "Kabutops",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
+    "areaHabitat": "Sea"
+  },
+  {
+    "numero": 142,
+    "nome": "Aerodactyl",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 143,
+    "nome": "Snorlax",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+    "areaHabitat": "Grassland"
+  },
+  {
+    "numero": 144,
+    "nome": "Articuno",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 145,
+    "nome": "Zapdos",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+    "areaHabitat": "Forest"
+  },
+  {
+    "numero": 146,
+    "nome": "Moltres",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
+    "areaHabitat": "Mountain"
+  },
+  {
+    "numero": 147,
+    "nome": "Dratini",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 148,
+    "nome": "Dragonair",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 149,
+    "nome": "Dragonite",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "areaHabitat": "Water's edge"
+  },
+  {
+    "numero": 150,
+    "nome": "Mewtwo",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+    "areaHabitat": "Cave"
+  },
+  {
+    "numero": 151,
+    "nome": "Mew",
+    "imagemUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
+    "areaHabitat": "Forest"
+  }
+]
