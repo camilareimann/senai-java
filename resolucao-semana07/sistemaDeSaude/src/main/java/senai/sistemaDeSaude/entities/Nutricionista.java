@@ -1,10 +1,13 @@
 package senai.sistemaDeSaude.entities;
 
 import jakarta.persistence.*;
+import lombok.RequiredArgsConstructor;
+
 import java.util.HashSet;
 import java.util.Set;
 
 @Entity
+@RequiredArgsConstructor
 public class Nutricionista {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

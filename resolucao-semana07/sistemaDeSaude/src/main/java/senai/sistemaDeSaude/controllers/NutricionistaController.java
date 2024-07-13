@@ -1,5 +1,6 @@
 package senai.sistemaDeSaude.controllers;
 
+import org.springframework.security.access.prepost.PreAuthorize;
 import senai.sistemaDeSaude.DTOs.NutricionistaRequestDTO;
 import senai.sistemaDeSaude.DTOs.NutricionistaResponseDTO;
 import org.springframework.beans.factory.annotation.Autowired;
