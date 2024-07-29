@@ -3,6 +3,8 @@ package api.pokedex.exception;
 import api.pokedex.exception.dtos.ResponseErrorDTO;
 import jakarta.persistence.EntityNotFoundException;
 import java.util.List;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -14,6 +16,8 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 @RestControllerAdvice
 public class ErrorHandler {
+
+    private static final Logger LOGGER = LogManager.getLogger(ErrorHandler.class);
 
     @ExceptionHandler(EntityNotFoundException.class)
     public ResponseEntity<Void> trataEntidadeNaoEncontrada(EntityNotFoundException e) {
@@ -27,6 +31,8 @@ public class ErrorHandler {
          erro.setCampo("numero");
          erro.setMensagem(e.getMessage());
 
+        LOGGER.error("Chave duplicada.", e);
+
          return ResponseEntity.status(HttpStatus.CONFLICT).body(erro);
     }
 
@@ -36,6 +42,9 @@ public class ErrorHandler {
         List<FieldError> fieldErrors = exception.getFieldErrors();
 
         List<ResponseErrorDTO> responseList = fieldErrors.stream().map(ResponseErrorDTO::new).toList();
+
+        responseList.forEach(
+                errorResponse -> LOGGER.warn("campo obrigatório faltando: {} ", errorResponse.getCampo()));
 
         return ResponseEntity.badRequest().body(responseList);
     }

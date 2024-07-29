@@ -7,16 +7,18 @@ import api.pokedex.DTO.PokemonVistoRequest;
 import api.pokedex.model.Pokemon;
 import api.pokedex.repository.PokemonRepository;
 import jakarta.persistence.EntityNotFoundException;
+import java.util.List;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.stereotype.Service;
-
-import java.util.List;
-
 import static api.pokedex.mapper.PokemonMapper.map;
 import static api.pokedex.mapper.PokemonMapper.mapSummary;
 
 @Service
 public class PokemonService {
+
+    private static final Logger LOGGER = LogManager.getLogger(PokemonService.class);
 
     private final PokemonRepository repository;
 
@@ -37,6 +39,11 @@ public class PokemonService {
             throw new EntityNotFoundException("Not found");
         }
         repository.save(map(pokemonAtualizadoRequest));
+        LOGGER.info(
+                "Pokémon capturado! Nome: {}, número: {}",
+                pokemonAtualizadoRequest.getNome(),
+                pokemonAtualizadoRequest.getNumero());
+
     }
 
     public void atualizaVisto(PokemonVistoRequest pokemonVistoRequest) {
